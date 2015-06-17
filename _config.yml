@@ -1,0 +1,23 @@
+# Site settings
+title: "Kingdom Builders"
+email: hello@kingdombuilders.io
+description: "A community for people who want to serve God's Kingdom by making new things."
+url: "http://kingdombuilders.io"
+title_description: "A community for people who want to serve God's Kingdom by making new things."
+github_repository: https://github.com/kingdombuildersmm/kingdombuildersmm.github.io
+
+# Social usernames/URLs
+twitter_username: hey_kb_mm
+github_username:  kingdombuildersmm
+slack_link:       kbmm.slack.com
+
+# Footer
+footer_left: "Site theme made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
