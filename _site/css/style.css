@@ -1,6 +1,5 @@
 @charset "UTF-8";
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700);
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Exo+2:700,200,400|Martel:200,400,700);
 @import url(http://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 /* Colours */
 /* Responsive sizes */
@@ -10,8 +9,8 @@ html {
   overflow-x: hidden; }
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  font-family: 'Martel', sans-serif;
+  font-weight: 200;
   background-color: #2D2D29;
   color: #FFFFFF;
   font-size: 16px;
@@ -40,6 +39,14 @@ ul {
   .navbar li a:hover, .nav li a:hover {
     color: #215A6D;
     text-decoration: none; }
+
+h1 {
+  color: #3CA2A2; }
+
+h2, h3 {
+  border-bottom: 1px solid #3CA2A2;
+  padding-bottom: 5px;
+  padding-top: 5px; }
 
 .clearfix:after {
   content: " ";
@@ -144,7 +151,7 @@ ul {
   .index .content-panel:nth-of-type(1) {
     border-bottom: 10px solid #3CA2A2; }
   .index .author-header {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     color: #3CA2A2;
     margin-top: 0px;
     padding-top: 15px;
@@ -252,7 +259,7 @@ ul {
   height: 100%;
   max-height: 100%; }
   .single h1, .single h2, .single h3, .single h4, .single h5, .single h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     margin-bottom: 10px; }
   .single h2 {
     font-size: 36px; }
