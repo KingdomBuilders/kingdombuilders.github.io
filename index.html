@@ -14,9 +14,16 @@ layout: default
       <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
 
       <div class="author-text">
-        {{ site.title_description }}
-      </div>
+        <p>{{ site.title_description }}</p>
 
+        <p>
+          <a href='/about'>About Us</a>
+        </p>
+      </div>
+    </div>
+
+    <div class="col-md-12 main content-panel">
+      <h3 class="header">Links</h3>
       <div class="links">
         {% if site.twitter_username %}
         <a href="http://www.twitter.com/{{ site.twitter_username }}" target="_new">
@@ -54,10 +61,6 @@ layout: default
         </a>
         {% endif %}
       </div>
-    </div>
-
-    <div class="col-md-12 main content-panel">
-      {{ content}}
     </div>
 
     <div class="col-md-12 main content-panel">
