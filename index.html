@@ -17,48 +17,56 @@ layout: default
         <p>{{ site.title_description }}</p>
 
         <p>
-          <a href='/about'>About Us</a>
+          <a href='/about'>Learn About Us</a>
         </p>
       </div>
     </div>
 
     <div class="col-md-12 main content-panel">
-      <h3 class="header">Links</h3>
-      <div class="links">
+      <div class="articles">
+        <h2>Links</h2>
+
         {% if site.twitter_username %}
-        <a href="http://www.twitter.com/{{ site.twitter_username }}" target="_new">
+        <a class='contact-icon' href="http://www.twitter.com/{{ site.twitter_username }}" target="_new">
           <i class="fa fa-twitter fa-2x"></i>
         </a>
         {% endif %}
 
         {% if site.linkedin_link %}
-        <a href="{{ site.linkedin_link }}" target="_new">
+        <a class='contact-icon' href="{{ site.linkedin_link }}" target="_new">
           <i class="fa fa-linkedin fa-2x"></i>
         </a>
         {% endif %}
 
         {% if site.google_plus_link %}
-        <a href="{{ site.google_plus_link }}" target="_new">
+        <a class='contact-icon' href="{{ site.google_plus_link }}" target="_new">
           <i class="fa fa-google-plus fa-2x"></i>
         </a>
         {% endif %}
 
         {% if site.github_username %}
-        <a href="https://github.com/{{ site.github_username }}" target="_new">
+        <a class='contact-icon' href="https://github.com/{{ site.github_username }}" target="_new">
           <i class="fa fa-github-alt fa-2x"></i>
         </a>
         {% endif %}
 
         {% if site.stackoverflow_link %}
-        <a href="{{ site.stackoverflow_link }}" target="_new">
+        <a class='contact-icon' href="{{ site.stackoverflow_link }}" target="_new">
           <i class="fa fa-stack-overflow fa-2x"></i>
         </a>
         {% endif %}
 
         {% if site.slack_link %}
-        <a href="{{ site.slack_link }}" target="_new">
+        <a class='contact-icon' href="{{ site.slack_link }}" target="_new">
           <i class="fa fa-slack fa-2x"></i>
         </a>
+        {% endif %}
+
+        {% if site.contact_email %}
+        <a class='contact-icon' href="mailto:{{ site.slack_link }}" target="_new">
+          <i class="fa fa-envelope fa-2x"></i>
+        </a>
+
         {% endif %}
       </div>
     </div>

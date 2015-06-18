@@ -1,16 +1,17 @@
 # Site settings
 title: "Kingdom Builders"
 email: hello@kingdombuilders.io
-description: "A community for people who want to serve God's Kingdom by making new things."
+description: "Serving and growing the Kingdom of God with every tool, skill, and opportunity available to us."
 url: "http://kingdombuilders.io"
 title_image: 'logo.png'
-title_description: "A community for people who want to serve God's Kingdom by making new things."
+title_description: "Serving and growing the Kingdom of God with every tool, skill, and opportunity available to us."
 github_repository: https://github.com/kingdombuildersmm/kingdombuildersmm.github.io
 
 # Social usernames/URLs
 twitter_username: hey_kb_mm
 github_username:  kingdombuildersmm
-slack_link:       kbmm.slack.com
+slack_link:       http://kbmm.slack.com
+contact_email:    hello@kingdombuilders.io
 
 # Footer
 footer_left: "Site theme made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
