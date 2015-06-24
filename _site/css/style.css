@@ -178,6 +178,14 @@ h2, h3 {
     font-size: 1.7em; }
     .index .author-text b {
       font-size: 32px; }
+    .index .author-text .btn {
+      font-size: 1.5em;
+      padding-left: 10px;
+      padding-right: 10px;
+      background-color: #3CA2A2;
+      border-color: #3CA2A2; }
+    .index .author-text .btn:hover {
+      border-color: #FFFFFF; }
   .index .articles {
     text-align: center;
     font-size: 20px; }
