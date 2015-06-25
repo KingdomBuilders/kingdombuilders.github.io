@@ -258,6 +258,20 @@ h2, h3 {
     }
   }
 
+  .author-subtitle {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 1em;
+    color: $light-medium;
+  }
+
+  .tagline {
+    margin-bottom: 20px;
+    background-color: darken($medium, 5);
+    border-radius: 15px;
+    padding: 25px;
+  }
+
   .row {
     height: 100%;
     max-height: 100%;
