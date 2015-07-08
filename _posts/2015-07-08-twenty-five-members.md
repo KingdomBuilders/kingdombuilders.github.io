@@ -10,7 +10,7 @@ author:     Andrew Fallows
 
 The church is the body of Christ. We repeat this often. And when we do, we say that we are meant to be Jesus' hands and feet, carrying us to the place we're needed and reaching out to touch lives.
 
-These are good metaphors, but what if we embrace the body metaphor more fully. Why only be Jesus hands and feet when the body needs eyes, ears, and mouths, and more profoundly, needs a heart, a skeleton, muscles, skin, and clothes?  Hands are ([usually](https://en.wikipedia.org/wiki/Thing_(The_Addams_Family))) less useful without an arm, a shoulder, and a torso.
+These are good metaphors, but what if we embrace the body metaphor more fully? Why only be Jesus hands and feet when the body needs eyes, ears, and mouths, and more profoundly, needs a heart, a skeleton, muscles, skin, and clothes?  Hands are ([usually](https://en.wikipedia.org/wiki/Thing_(The_Addams_Family))) less useful without an arm, a shoulder, and a torso.
 
 The men and women who serve the most immediate need do wonderful, invaluable work. If any word I write or speak ever seems to diminish the importance of such people, blame my choice of words. I can't overstate the value of people on the ground, doing real work at the source, touching the lives of the sick, the poor, the weak, the unreached.
 
