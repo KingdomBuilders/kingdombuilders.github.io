@@ -25,3 +25,8 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 permalink: pretty
 exclude: [vendor]
+
+# For RSS
+name: Kingdom Builders
+description: A Slack Community for Technology in Missions and Ministry
+url: http://kingdombuilders.io/

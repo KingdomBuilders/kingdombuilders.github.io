@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Kingdom Builders</title>
+		<description>A Slack Community for Technology in Missions and Ministry</description>		
+		<link>http://kingdombuilders.io/</link>
+		<atom:link href="http://kingdombuilders.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>God Made Makers</title>
+				        
+				
+					<description>&lt;h3&gt;The Rest of the Body&lt;/h3&gt;
+</description>
+				
+				<pubDate>Wed, 08 Jul 2015 00:00:00 -0400</pubDate>
+				<link>http://kingdombuilders.io//2015/07/08/god-made-makers/</link>
+				<guid isPermaLink="true">http://kingdombuilders.io//2015/07/08/god-made-makers/</guid>
+			</item>
+		
+			<item>
+				<title>Kingdom Builders is Born</title>
+				        
+				
+					<description>&lt;h2&gt;Hello World&lt;/h2&gt;
+</description>
+				
+				<pubDate>Sat, 20 Jun 2015 00:00:00 -0400</pubDate>
+				<link>http://kingdombuilders.io//2015/06/20/kingdom-builders-is-born/</link>
+				<guid isPermaLink="true">http://kingdombuilders.io//2015/06/20/kingdom-builders-is-born/</guid>
+			</item>
+		
+	</channel>
+</rss>
