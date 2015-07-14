@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Inspired Words: Meant to be Shared
+title:      Inspired Words - Meant to be Shared
 date:       2015-07-14
 summary:    Using technology to help sermons reach their audience
 author:     Becky Newhook
@@ -16,7 +16,7 @@ If you were a revivalist you had the opportunity to travel with the word of God 
 
 Fast forward 100 years and we find a VERY different situation for our pastors. There are hundreds of church choices for each city, conferences EVERY weekend near or far and MANY distractions to keep the people away from the pews. This obviously is a different world and if we do not adapt we will be left behind and eventually forgotten. 
 
-**How do we keep with the times but maintain our values? **
+**How do we keep with the times but maintain our values?**
 
 **How do we continue to honor and respect the word of God but join the world of online production?**
 
