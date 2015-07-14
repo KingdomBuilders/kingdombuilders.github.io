@@ -35,6 +35,6 @@ When it comes to using the online world there are a few tips we want to share to
 Do not long for the “old days” because even though life was simpler it would have taken thousands and thousands of years to spread God’s love and truth to the world. Now we can spread it and share it in moments to thousands even millions at a time. Take the tips, get online and trust God to minister to those who need it, who will receive it and will take it and spread it. The internet is a tool – and we as the church must take it by storm with excellence and truth.
 
 
-----
+<hr>
 
 **Becky Newhook ([We Edit Sermons](http://weeditsermons.com))** - Becky and her husband have been launching, buying and building companies for the last 10 years. Beside their love of business is their passion to see people know God personally, reach their potential in Christ and to hear of all the goodness that awaits for them in HIM. We Edit Sermons is a unique and perfect way for this vision to become a reality on a larger scale.
