@@ -6,9 +6,9 @@ summary:    Using technology to help sermons reach their audience
 author:     Becky Newhook
 ---
 
-The following is a guest post by Becky Newhook from We Edit Sermons (learn more about her at the end!)
+<p style="font-size: 0.6em;">The following is a guest post by Becky Newhook from We Edit Sermons (learn more about her at the end!)</p>
 
-<hr>
+### Imagine
 
 Picture yourself 100 years ago as a pastor. You live in a small town with a small church with less than 100 patrons. Each week you prepare, pray and wait on God to show you his word to be shared to the people that will come with open hearts on Sunday. There is no other church in town, there are no plans to move away from the family farm and most of the town shuts down so most patrons will attend and hear the word of the Lord. 
 
@@ -16,10 +16,11 @@ If you were a revivalist you had the opportunity to travel with the word of God 
 
 Fast forward 100 years and we find a VERY different situation for our pastors. There are hundreds of church choices for each city, conferences EVERY weekend near or far and MANY distractions to keep the people away from the pews. This obviously is a different world and if we do not adapt we will be left behind and eventually forgotten. 
 
-**How do we keep with the times but maintain our values?**
+> How do we keep with the times but maintain our values?
 
-**How do we continue to honor and respect the word of God but join the world of online production?**
+> How do we continue to honor and respect the word of God but join the world of online production?
 
+### Share
 There is a way to join the online world in a way that will promote and encourage ways that bring light and life. You may have a small church but it is not a small world. The internet opened up the world years ago and it continues to reach farther than we ever imagined. 
 
 We as Christians can use this online world as a platform to express and further the message of the gospel and the love of Christ. No need to leave your town or set up tents any longer – just have the ability to preach the word that God has given you. 
@@ -38,3 +39,5 @@ Do not long for the “old days” because even though life was simpler it would
 <hr>
 
 **Becky Newhook ([We Edit Sermons](http://weeditsermons.com))** - Becky and her husband have been launching, buying and building companies for the last 10 years. Beside their love of business is their passion to see people know God personally, reach their potential in Christ and to hear of all the goodness that awaits for them in HIM. We Edit Sermons is a unique and perfect way for this vision to become a reality on a larger scale.
+
+Find We Edit Sermons at http://weeditsermons.com and [@weeditsermons](http://twitter.com/weeditsermons) on Twitter!
