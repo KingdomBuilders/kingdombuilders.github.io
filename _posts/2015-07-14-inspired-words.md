@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      Inspired Words: Meant to be Shared
-date:       2015-06-20
+date:       2015-07-14
 summary:    Using technology to help sermons reach their audience
 author:     Becky Newhook
 ---
 
 The following is a guest post by Becky Newhook from We Edit Sermons (learn more about her at the end!)
 
-----
+<hr>
 
 Picture yourself 100 years ago as a pastor. You live in a small town with a small church with less than 100 patrons. Each week you prepare, pray and wait on God to show you his word to be shared to the people that will come with open hearts on Sunday. There is no other church in town, there are no plans to move away from the family farm and most of the town shuts down so most patrons will attend and hear the word of the Lord. 
 
