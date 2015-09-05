@@ -12,7 +12,9 @@ We are, of course, not the only community for people with these goals, and I wan
 
 ### Radix - https://www.rad1x.org/
 
-**Radix** was started by Ryan Meyer. It's a forum built on [Discourse](http://www.discourse.org/), which is an excellent tool for deeper, threaded discussions. I love the presence of a place for more long-form communication with topic threads; one of the things Slack doesn't do well is allow separate conversations to remain isolated from one another, and it's not always conducive to long answers, Radix solves that problem nicely!
+**Radix** was started by Ryan Meyer. It's a forum built on [Discourse](http://www.discourse.org/), which is an excellent tool for deeper, threaded discussions. I love the presence of a place for more long-form communication with topic threads. One thing Slack *doesn't* do well is allow separate conversations to remain isolated from one another, and it's not always conducive to long answers.
+
+Radix solves that problem nicely!
 
 At present, Radix is very much focused on Christian Software engineers. My favorite feature is the Devotions, some of which are actually code samples that are used to express a theological meditation. Very cool!
 
