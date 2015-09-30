@@ -16,4 +16,8 @@ Below is an alphabetical list of projects that are led or contributed to by memb
 
 Sometimes we dream up ideas but can't commit to working on them, or want to refine them with others before we dig in. Here are some snippets of possible projects, drawn from our #brainstorming channel!
 
-*
+* Collaborative Ideation/Voting project
+  * enable large groups of people to form opinions together (and subsequently to act together etc)
+  * enable inidivuals to connect together and express their views and preferences
+  * give a voice to large body of members in church
+  * allow churches and other orgs to get feedback from a larger proportion of members
