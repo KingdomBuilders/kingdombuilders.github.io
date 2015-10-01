@@ -9,8 +9,9 @@ Kingdom Builders [is not a development team](/about#what-its-not) and we don't d
 Below is an alphabetical list of projects that are led or contributed to by members of Kingdom Builders
 
 * [Ark](http://joinark.social/) - A social community for people of faith. Not much is public yet.
+* [Discover](http://discoverapp.org/) - An Android discipleship App providing Discovery Bible Studies in text and audio. Currently available in English and Arabic with more languages in the pipeline.
 * [Kingdom Builders](https://github.com/KingdomBuilders/kingdombuilders.github.io) - sort of a cheat, but hey, this website is a software project! Promoting the community and inviting others to join. Uses [jekyll](http://jekyllrb.com/).
-* [PrayerMate](http://www.geero.net/prayermate/) - Android and iOS prayer app with a ton of features.
+* [PrayerMate](http://www.geero.net/prayermate/) - PrayerMate is a Christian prayer app that seeks to help you actually pray for all the people and causes you care about.
 
 # Project Ideas
 
