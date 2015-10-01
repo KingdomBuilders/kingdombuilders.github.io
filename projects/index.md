@@ -17,8 +17,10 @@ Below is an alphabetical list of projects that are led or contributed to by memb
 
 Sometimes we dream up ideas but can't commit to working on them, or want to refine them with others before we dig in. Here are some snippets of possible projects, drawn from our #brainstorming channel
 
-* Collaborative Ideation/Voting project
-  * enable large groups of people to form opinions together (and subsequently to act together etc)
-  * enable inidivuals to connect together and express their views and preferences
-  * give a voice to large body of members in church
-  * allow churches and other orgs to get feedback from a larger proportion of members
+* Collaborative Ideation Project
+  * 1 Corinthians 1:10 - "Now I appeal to you, brothers and sisters, by the name of our Lord Jesus Christ, that all of you be in agreement and that there be no divisions among you, but that you be united in the same mind and the same purpose."
+  * Uniting the mind and purpose the Church, and any large group within modern society, can be greatly assisted by the internet, though amongst a smaller group of people face-to-face communication is to be preferred.
+  * Two outstanding models of collaboratively generating ideas or information are Wikipedia and Q&A websites. However, Wikipedia can only function through strict content policies and an editing hierarchy: it is not a place for people to collaboratively express and develop views. Q&A websites prioritise the selection of a 'best answer' rather than on assisting participants to craft one together incorporating elements from many sources; in addition they do not effectively organise and merge related issues and questions.
+  * Project ambitions: the creation of a platform that gives a voice to any member of the Church (or of other groups within society), promoting unity of mind and purpose through collaboration and the synthesis of shared views, perspectives and policies.
+  * Next steps (October 2015): ​Review platform architecture, mathematics, design, various off-the-shelf components provisionally selected etc​; refine; proceed to implementation.
+  * Please contact [@tom](https://kbmm.slack.com/team/tom) with any suggestions or queries, or if you would like to find out more about participating.
