@@ -17,7 +17,9 @@ Below is an alphabetical list of projects that are led or contributed to by memb
 
 Sometimes we dream up ideas but can't commit to working on them, or want to refine them with others before we dig in. Here are some snippets of possible projects, drawn from our #brainstorming channel
 
-* Collaborative Ideation Project
+* Audio Transcription
+  * [Longer description here](https://gist.github.com/dimaip/d620a6f88fdf50035ac2)
+* Collaborative Ideation
   * 1 Corinthians 1:10 - "Now I appeal to you, brothers and sisters, by the name of our Lord Jesus Christ, that all of you be in agreement and that there be no divisions among you, but that you be united in the same mind and the same purpose."
   * Uniting the mind and purpose the Church, and any large group within modern society, can be greatly assisted by the internet, though amongst a smaller group of people face-to-face communication is to be preferred.
   * Two outstanding models of collaboratively generating ideas or information are Wikipedia and Q&A websites. However, Wikipedia can only function through strict content policies and an editing hierarchy: it is not a place for people to collaboratively express and develop views. Q&A websites prioritise the selection of a 'best answer' rather than on assisting participants to craft one together incorporating elements from many sources; in addition they do not effectively organise and merge related issues and questions.
