@@ -1,7 +1,7 @@
 ---
 ---
-@import url(http://fonts.googleapis.com/css?family=Exo+2:700,200,400|Martel:200,400,700);
 @import url(http://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300,400italic,300italic|Merriweather:400,400italic,700,300);
 
 /* Colours */
 $twitter:        #6dabda;
@@ -39,8 +39,8 @@ html {
 }
 
 body {
-  font-family: 'Martel', sans-serif;
-  font-weight: 200;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
   background-color: $dark;
   color: $white;
   font-size: 16px;
@@ -241,7 +241,7 @@ h2, h3 {
   }
 
   .author-header {
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Merriweather', sans-serif;
     color: $light-blue;
     margin-top: 0px;
     padding-top: 15px;
@@ -447,7 +447,7 @@ h2, h3 {
   max-height: 100%;
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Merriweather', sans-serif;
     margin-bottom: 10px;
   }
 
