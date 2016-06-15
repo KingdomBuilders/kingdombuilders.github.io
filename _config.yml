@@ -1,11 +1,11 @@
 # Site settings
 title: "Kingdom Builders"
-subtitle: "A Slack Community for Technology in Missions and Ministry"
+subtitle: "Serving and growing the Kingdom of God with every tool, skill, and opportunity available to us."
 email: hello@kingdombuilders.io
-description: "Serving and growing the Kingdom of God with every tool, skill, and opportunity available to us."
+description:  "A Slack Community for Technology in Missions and Ministry"
 url: "http://kingdombuilders.io"
 title_image: 'logo.png'
-title_description: "Serving and growing the Kingdom of God with every tool, skill, and opportunity available to us."
+title_description:   "A Slack Community for Technology in Missions and Ministry"
 github_repository: https://github.com/kingdombuilders/kingdombuilders.github.io
 
 # Social usernames/URLs

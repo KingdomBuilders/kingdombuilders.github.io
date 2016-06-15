@@ -88,28 +88,38 @@ layout: default
     </div>
 
     <div class="col-md-12 main content-panel">
-
       <div class="articles">
-
-        <h2>Latest Articles</h2>
-
-        <ul>
-          {% for post in site.posts | limit: site.post_limit %}
-
-          <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
-          </li>
-
-          {% endfor %}
-          <li>
-          <small><i><a href="/posts/">more...</a></i></small>
-          </li>
-        </ul>
-
+        <h2>What is Slack?</h2>
+        <img style="width: 670px;" src="/images/slack.png">
+        <p class="author-subtitle">
+          <a href="http://www.slack.com" target="_blank">Slack</a> is a modern communication tool with support for multiple streams of conversation in different channels, private messaging, file sharing, integration with external services, and more. It's growing in popularity in the corporate world, and Kingdom Builders opted for it as a great platform for our community.
+        </p>
       </div>
-
     </div>
+
+    <!-- <div class="col&#45;md&#45;12 main content&#45;panel"> -->
+    <!--  -->
+    <!--   <div class="articles"> -->
+    <!--  -->
+    <!--     <h2>Latest Articles</h2> -->
+    <!--  -->
+    <!--     <ul> -->
+    <!--       {% for post in site.posts | limit: site.post_limit %} -->
+    <!--  -->
+    <!--       <li> -->
+    <!--       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> -->
+    <!--       <small class="hidden&#45;xs">{{ post.date | date: "%B %&#45;d, %Y" }}</small> -->
+    <!--       </li> -->
+    <!--  -->
+    <!--       {% endfor %} -->
+    <!--       <li> -->
+    <!--       <small><i><a href="/posts/">more...</a></i></small> -->
+    <!--       </li> -->
+    <!--     </ul> -->
+    <!--  -->
+    <!--   </div> -->
+    <!--  -->
+    <!-- </div> -->
 
   </div>
 </div>
