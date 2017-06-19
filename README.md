@@ -14,4 +14,4 @@ Kingdom Builders is a Slack community, and our goal is to band together to work 
 
 Don't hesitate to suggest updates by opening an issue or a pull request. Anything that can make the site better is welcome.
 
-Kingdom Builders is maintained by [Andrew Fallows](http://github.com/kaldrenon), feel free to get in touch: andrew@kingdombuilders.io
+Kingdom Builders is maintained by [Andrew Fallows](http://github.com/kaldrenon), feel free to [get in touch](https://twitter.com/kaldrenon).
