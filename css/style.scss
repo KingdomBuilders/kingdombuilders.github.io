@@ -11,15 +11,15 @@ $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $rss:            #eea33a;
 
-$darker:         #21211E;
-$dark:           #2D2D29;
-$medium:         #3B3B35;
+$darker:         #475B59;
+$dark:           #1A2221;
+$medium:         #404F4D;
 $light-medium:   #969696;
 $dark-blue:      #215A6D;
 $light-blue:     #3CA2A2;
 $green:          #92C7A3;
 $light:          #DFECE6;
-$white:          #FFFFFF;
+$white:          #E6EBEB;
 $dark-purple:    #300030;
 $medium-purple:  #480048;
 $regular-purple: #601848;
@@ -49,12 +49,14 @@ body {
 }
 
 a, a:active {
+  padding: 2px 5px;
   color: $light-blue;
   text-decoration: none;
 }
 
 a:hover {
-  color: $dark-blue;
+  color: $light-blue;
+  background-color: $dark;
   text-decoration: none;
 }
 
