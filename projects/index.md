@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Projects
 ---
-
-# Projects
 
 Kingdom Builders [is not a development team](/about#what-its-not) and we don't directly lead or sponsor individual projects. But as a community of technologists, it's no surprise that members have projects of their own.
 

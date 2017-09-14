@@ -1,8 +1,7 @@
 ---
 layout: page
+title: About Kingdom Builders
 ---
-
-# About Kingdom Builders
 
 ### Vision
 

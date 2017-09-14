@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Guidelines for Kingdom Builders
 ---
 
 ## Basics
