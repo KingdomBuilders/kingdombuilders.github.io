@@ -36,8 +36,7 @@ we find teammates, brainstorm together, and discover problems we can solve,
 
 As iron sharpens iron, we will make each other better servants of the Kingdom.
 
-### What it's **Not**
-<a name="what-its-not"></a>
+### What it's **Not** <a style="display: none;" name="what-its-not"></a>
 
 **Kingdom Builders** is not a company. It's not a consultancy, a recruiting
 agency, or a development team.
